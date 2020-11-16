@@ -1,34 +1,36 @@
 body {
-  background-image: url('c:\code\wu1-validation\img/IMG_20200727_113945.jpg');
+  background-image: url('IMG_20200727_113945.jpg');
   background-size: cover;
-  background-color: #f3f3f3;
-  font-size: 1;
-  font-family: 'Montserrat, sans-serif;
-  font-weight: 400;
+  background-color: #ffffff;
+  font-size: 1 unit;
+  font-family: 'Montserrat, sans-serif, font-weight: 400';
 }
 
 main, header, footer {
   width: 80%;
   margin: 0 auto;
   padding: 1rem;
-  background-color: rgba(226, 226, 226, 0.4);
+  background-color: rgba(236, 236, 236, 0.4);
   color: #efefef;
 }
 
 footer {
-  paddin-top: 3rem;
+  padding-top: 3rem;
 }
 
 p {
+  color: #000000;
   font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
   font-size: 3rem;
+  color: #000000;
 }
 
-.h2 {
-  border-bottom: 2px solid #efefef;
+h2 {
+  color: #000000;
+  border-bottom: 2px solid #000000;
 } 
 
 .lead {
@@ -40,9 +42,9 @@ h1 {
   margin: 1rem
 }
 
-.info < h3 {
-  color: #efefef;
-  background-color: #666666;
+h3 {
+  color: #000000;
+  background-color: #ebebeb;
   margin-bottom: 0.2;
 }
 
