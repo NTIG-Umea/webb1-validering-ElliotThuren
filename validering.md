@@ -5,3 +5,7 @@ försöker fixa färg på bakrund och text
 försök att fixa css
 
 fixat lite småfel
+
+har inte fixat länkarna, men gjort så de ser ut som länkar
+
+har lagt in sidan i validerings sidan och försökt fixa massa olika små fel
