@@ -2,7 +2,7 @@ body {
   background-image: url('IMG_20200727_113945.jpg');
   background-size: cover;
   background-color: #ffffff;
-  font-size: 1 unit;
+  font-size: 1rem;
   font-family: 'Montserrat, sans-serif, font-weight: 400';
 }
 
@@ -45,9 +45,17 @@ h2 {
 h3 {
   color: #000000;
   background-color: #ebebeb;
-  margin-bottom: 0.2;
+  margin-bottom: 0.2px;
 }
 
 .footer {
 
+}
+
+hej {
+  color: #0047b3;
+}
+
+li {
+  color: #000000;
 }
