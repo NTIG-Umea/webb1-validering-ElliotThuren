@@ -17,3 +17,5 @@ nu har jag gjort så mycket jag kan och vet inte hur jag ska fixa det som är kv
 jag har lagt in koden i validatorn igen för att försöka fixa de sista problemen
 
 fixat vissa småproblem
+
+har försökt så mycket jag kan nu igen, har fixat alla validerings-problem, kunde inte fixa bilderna och länkarna, men jag gjorde så att länkarna ser ut som att det är länkar
