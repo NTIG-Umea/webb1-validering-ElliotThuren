@@ -15,3 +15,5 @@ har försökt fixa lite mer småfel som uppstått i validatorn
 nu har jag gjort så mycket jag kan och vet inte hur jag ska fixa det som är kvar
 
 jag har lagt in koden i validatorn igen för att försöka fixa de sista problemen
+
+fixat vissa småproblem
